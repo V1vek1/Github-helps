@@ -1,0 +1,83 @@
+Agar hum first time github per code upload kar rahe h to hame yeh steps follow karne h 
+
+There are 3 ways to upload files on GITHUB 
+
+STEPS ARE:-
+
+sabse phle uss folder me jaye jaha ki files ya folders ko upload karna h or usme kisi file per click karke terminal
+open karlen uske baad yeh codes ko ek ek karke run kare 
+
+Step 1. git init  (iss command se .git name se ek folder banta h...) 
+
+Step 2. git add . (iss code se ek bar me sabhi files/folders uplaod ho jati h)
+
+Step 3. git commit -m "JO_BHI_AAP_COMMIT_KA_NAME_DENA_CHATE_H"
+
+Step 4. git remote add origin yha per SSH wali link dena h origin ke baad me bas
+
+Step 5. git push (agar is code ke run karne ke baad no upstream branch ka error aa 
+                   rha h to iske baad wala code yani step 6 wala code run karo)
+
+Step 6. git push --set-upstream origin master     
+
+Step 7.press y button (kyuki hamse yeh pucha jata h Enter passphrase for key)
+
+DONE
+
+
+
+
+
+*******************after modification kaise karte h upload uske liye commands*********
+
+STEPS ARE:-
+
+Step 1. git init
+
+Step 2. git add .
+
+Step 3. git commit -m "JO_BHI_AAP_COMMIT_KA_NAME_DENA_CHATE_H"
+
+Step 4.(SKIP STEP 4) YAHA per yeh code run karne ki koi jarurat nahi h 
+        (git remote add origin yha per SSH wali link dena h origin ke baad me bas)
+
+Step 5. git push (agar is code ke run karne ke baad no upstream branch ka error aa 
+                   rha h to iske baad wala code yani step 6 wala code run karo warna step 7 follow karo)
+
+Step 6. git push --set-upstream origin master     
+
+Step 7.press y button (kyuki hamse yeh pucha jata h Enter passphrase for key)
+
+DONE
+
+
+
+
+***********************BY THE FOLDERS***************************
+STEPS ARE
+
+go to the This PC 
+
+go to your files and folders location
+
+then open git bash in this folder
+
+then run these commands 
+
+Step 1. git init
+
+Step 2. git add .
+
+Step 3. git commit -m "JO_BHI_AAP_COMMIT_KA_NAME_DENA_CHATE_H"
+
+Step 4.(SKIP STEP 4) YAHA per yeh code run karne ki koi jarurat nahi h 
+        (git remote add origin yha per SSH wali link dena h origin ke baad me bas)
+
+Step 5. git push (agar is code ke run karne ke baad no upstream branch ka error aa 
+                   rha h to iske baad wala code yani step 6 wala code run karo warna step 7 follow karo)
+
+Step 6. git push --set-upstream origin master     
+
+Step 7.press y button (kyuki hamse yeh pucha jata h Enter passphrase for key)
+
+DONE
