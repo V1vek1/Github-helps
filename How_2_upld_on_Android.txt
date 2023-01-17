@@ -1,0 +1,20 @@
+Step 1. Open Android Studio
+Step 2. go to the VCS
+Step 3. click on enable Version Control Integration and Select git and click on OK
+        (agar aap Yeh Project phele se upload kiye h to apko step 3 skip larna h)
+
+Step 4. Then click on Project Option which is located on left Side of the Screen
+Step 5. Right Click on app 
+Step 6. Go to git 
+Step 7. Click on Add 
+Step 8. Go to git
+Step 9. Go to Manages Remotes Then click on + and 
+        Add The SSH Link of new reposetory which is on github and click on that after added
+
+Step 10. Go to git
+Step 11. Select all The File If needed
+Step 12. Click on commit
+Step 13.  click on commit always
+Step 14. click on Commit and push 
+Step 15. go to git 
+Step 16. click on push
